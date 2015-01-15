@@ -28,3 +28,16 @@
 
 # "temporary" build files
 /target
+
+/web-app
+/.classpath
+/.project
+/.settings
+*.log
+/*.zip
+/target
+/.idea
+*.iml
+*.iws
+.DS_Store
+/log
